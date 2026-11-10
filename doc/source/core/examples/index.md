@@ -34,6 +34,7 @@ The following examples show how to use Ray Core for a variety of use cases.
 ```{list-table}
 * - {doc}`map_reduce`
 * - {doc}`web_crawler`
+* - {doc}`Run Java and C++ batch programs with Ray <polyglot-batch>`
 ```
 
 
